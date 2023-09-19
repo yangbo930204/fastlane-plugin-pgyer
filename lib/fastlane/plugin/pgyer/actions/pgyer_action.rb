@@ -73,7 +73,7 @@ module Fastlane
           },
         }
 
-        api_host = "https://www.pgyer.com/apiv2/app"
+        api_host = "https://www.xcxwo.com/apiv2/app"
 
         pgyer_client = Faraday.new(nil, conn_options) do |c|
           c.request :multipart
